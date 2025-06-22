@@ -1,6 +1,6 @@
-# LeetCode
-
 # Leetcode
+
+VS Code + LeetCode 插件 + Markmap 插件 for (.md)
 
 ## 如何科学刷题？[here](https://leetcode.cn/circle/discuss/RvFUtj/)
 - https://github.com/zhang-wangz/LeetCodeRating
