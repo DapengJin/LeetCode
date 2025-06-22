@@ -2,6 +2,10 @@
 
 VS Code + LeetCode 插件 + Markmap 插件 for (.md)
 
+The page below is copied from 思维导图.md 
+Content here might be stale.
+-----------------------------------------------
+
 ## 如何科学刷题？[here](https://leetcode.cn/circle/discuss/RvFUtj/)
 - https://github.com/zhang-wangz/LeetCodeRating
 
